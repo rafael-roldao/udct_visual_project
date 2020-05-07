@@ -1,636 +1,636 @@
-,x
-CNT,Country code 3-character
-SUBNATIO,Adjudicated sub-region code 7-digit code (3-digit country code + region ID + stratum ID)
-STRATUM,Stratum ID 7-character (cnt + region ID + original stratum ID)
-OECD,OECD country
-NC,National Centre 6-digit Code
-SCHOOLID,School ID 7-digit (region ID + stratum ID + 3-digit school ID)
-STIDSTD,Student ID
-ST01Q01,International Grade
-ST02Q01,National Study Programme
-ST03Q01,Birth - Month
-ST03Q02,Birth -Year
-ST04Q01,Gender
-ST05Q01,Attend <ISCED 0>
-ST06Q01,Age at <ISCED 1>
-ST07Q01,Repeat - <ISCED 1>
-ST07Q02,Repeat - <ISCED 2>
-ST07Q03,Repeat - <ISCED 3>
-ST08Q01,Truancy - Late for School
-ST09Q01,Truancy - Skip whole school day
-ST115Q01,Truancy - Skip classes within school day
-ST11Q01,At Home - Mother
-ST11Q02,At Home - Father
-ST11Q03,At Home - Brothers
-ST11Q04,At Home - Sisters
-ST11Q05,At Home - Grandparents
-ST11Q06,At Home - Others
-ST13Q01,Mother<Highest Schooling>
-ST14Q01,Mother Qualifications - <ISCED level 6>
-ST14Q02,Mother Qualifications - <ISCED level 5A>
-ST14Q03,Mother Qualifications - <ISCED level 5B>
-ST14Q04,Mother Qualifications - <ISCED level 4>
-ST15Q01,Mother Current Job Status
-ST17Q01,Father<Highest Schooling>
-ST18Q01,Father Qualifications - <ISCED level 6>
-ST18Q02,Father Qualifications - <ISCED level 5A>
-ST18Q03,Father Qualifications - <ISCED level 5B>
-ST18Q04,Father Qualifications - <ISCED level 4>
-ST19Q01,Father Current Job Status
-ST20Q01,Country of Birth International - Self
-ST20Q02,Country of Birth International - Mother
-ST20Q03,Country of Birth International - Father
-ST21Q01,Age of arrival in <country of test>
-ST25Q01,International Language at Home
-ST26Q01,Possessions - desk
-ST26Q02,Possessions - own room
-ST26Q03,Possessions - study place
-ST26Q04,Possessions - computer
-ST26Q05,Possessions - software
-ST26Q06,Possessions - Internet
-ST26Q07,Possessions - literature
-ST26Q08,Possessions - poetry
-ST26Q09,Possessions - art
-ST26Q10,Possessions - textbooks
-ST26Q11,Possessions - <technical reference books>
-ST26Q12,Possessions - dictionary
-ST26Q13,Possessions - dishwasher
-ST26Q14,Possessions - <DVD>
-ST26Q15,Possessions - <Country item 1>
-ST26Q16,Possessions - <Country item 2>
-ST26Q17,Possessions - <Country item 3>
-ST27Q01,How many - cellular phones
-ST27Q02,How many - televisions
-ST27Q03,How many - computers
-ST27Q04,How many - cars
-ST27Q05,How many - rooms bath or shower
-ST28Q01,How many books at home
-ST29Q01,Math Interest - Enjoy Reading
-ST29Q02,Instrumental Motivation - Worthwhile for Work
-ST29Q03,Math Interest - Look Forward to Lessons
-ST29Q04,Math Interest - Enjoy Maths
-ST29Q05,Instrumental Motivation - Worthwhile for Career Chances
-ST29Q06,Math Interest - Interested
-ST29Q07,Instrumental Motivation - Important for Future Study
-ST29Q08,Instrumental Motivation - Helps to Get a Job
-ST35Q01,Subjective Norms -Friends Do Well in Mathematics
-ST35Q02,Subjective Norms -Friends Work Hard on Mathematics
-ST35Q03,Subjective Norms - Friends Enjoy Mathematics Tests
-ST35Q04,Subjective Norms - Parents Believe Studying Mathematics Is Important
-ST35Q05,Subjective Norms - Parents Believe Mathematics Is Important for Career
-ST35Q06,Subjective Norms - Parents Like Mathematics
-ST37Q01,Math Self-Efficacy - Using a <Train Timetable>
-ST37Q02,Math Self-Efficacy - Calculating TV Discount
-ST37Q03,Math Self-Efficacy - Calculating Square Metres of Tiles
-ST37Q04,Math Self-Efficacy - Understanding Graphs in Newspapers
-ST37Q05,Math Self-Efficacy - Solving Equation 1
-ST37Q06,Math Self-Efficacy - Distance to Scale
-ST37Q07,Math Self-Efficacy - Solving Equation 2
-ST37Q08,Math Self-Efficacy - Calculate Petrol Consumption Rate
-ST42Q01,Math Anxiety - Worry That It Will Be Difficult
-ST42Q02,Math Self-Concept - Not Good at Maths
-ST42Q03,Math Anxiety - Get Very Tense
-ST42Q04,Math Self-Concept- Get Good <Grades>
-ST42Q05,Math Anxiety - Get Very Nervous
-ST42Q06,Math Self-Concept - Learn Quickly
-ST42Q07,Math Self-Concept - One of Best Subjects
-ST42Q08,Math Anxiety - Feel Helpless
-ST42Q09,Math Self-Concept - Understand Difficult Work
-ST42Q10,Math Anxiety - Worry About Getting Poor <Grades>
-ST43Q01,Perceived Control - Can Succeed with Enough Effort
-ST43Q02,Perceived Control - Doing Well is Completely Up to Me
-ST43Q03,Perceived Control - Family Demands and Problems
-ST43Q04,Perceived Control - Different Teachers
-ST43Q05,Perceived Control - If I Wanted I Could Perform Well
-ST43Q06,Perceived Control - Perform Poorly Regardless
-ST44Q01,Attributions to Failure - Not Good at Maths Problems
-ST44Q03,Attributions to Failure - Teacher Did Not Explain Well
-ST44Q04,Attributions to Failure - Bad Guesses
-ST44Q05,Attributions to Failure - Material Too Hard
-ST44Q07,Attributions to Failure - Teacher Didnt Get Students Interested
-ST44Q08,Attributions to Failure - Unlucky
-ST46Q01,Math Work Ethic - Homework Completed in Time
-ST46Q02,Math Work Ethic - Work Hard on Homework
-ST46Q03,Math Work Ethic - Prepared for Exams
-ST46Q04,Math Work Ethic - Study Hard for Quizzes
-ST46Q05,Math Work Ethic - Study Until I Understand Everything
-ST46Q06,Math Work Ethic - Pay Attention in Classes
-ST46Q07,Math Work Ethic - Listen in Classes
-ST46Q08,Math Work Ethic - Avoid Distractions When Studying
-ST46Q09,Math Work Ethic - Keep Work Organized
-ST48Q01,Math Intentions - Mathematics vs. Language Courses After School
-ST48Q02,Math Intentions - Mathematics vs. Science Related Major in College
-ST48Q03,Math Intentions - Study Harder in Mathematics vs. Language Classes
-ST48Q04,Math Intentions - Take Maximum Number of Mathematics vs. Science Classes
-ST48Q05,Math Intentions - Pursuing a Career That Involves Mathematics vs. Science
-ST49Q01,Math Behaviour - Talk about Maths with Friends
-ST49Q02,Math Behaviour - Help Friends with Maths
-ST49Q03,Math Behaviour - <Extracurricular> Activity
-ST49Q04,Math Behaviour - Participate in Competitions
-ST49Q05,Math Behaviour - Study More Than 2 Extra Hours a Day
-ST49Q06,Math Behaviour - Play Chess
-ST49Q07,Math Behaviour - Computer programming
-ST49Q09,Math Behaviour - Participate in Math Club
-ST53Q01,Learning Strategies- Important Parts vs. Existing Knowledge vs. Learn by Heart
-ST53Q02,Learning Strategies- Improve Understanding vs. New Ways vs. Memory
-ST53Q03,Learning Strategies - Other Subjects vs. Learning Goals vs. Rehearse Problems
-ST53Q04,Learning Strategies - Repeat Examples vs. Everyday Applications vs. More Information
-ST55Q01,Out of school lessons - <test lang>
-ST55Q02,Out of school lessons - <maths>
-ST55Q03,Out of school lessons - <science>
-ST55Q04,Out of school lessons - other
-ST57Q01,Out-of-School Study Time - Homework
-ST57Q02,Out-of-School Study Time - Guided Homework
-ST57Q03,Out-of-School Study Time - Personal Tutor
-ST57Q04,Out-of-School Study Time - Commercial Company
-ST57Q05,Out-of-School Study Time - With Parent
-ST57Q06,Out-of-School Study Time - Computer
-ST61Q01,Experience with Applied Maths Tasks - Use <Train Timetable>
-ST61Q02,Experience with Applied Maths Tasks - Calculate Price including Tax
-ST61Q03,Experience with Applied Maths Tasks - Calculate Square Metres
-ST61Q04,Experience with Applied Maths Tasks - Understand Scientific Tables
-ST61Q05,Experience with Pure Maths Tasks - Solve Equation 1
-ST61Q06,Experience with Applied Maths Tasks - Use a Map to Calculate Distance
-ST61Q07,Experience with Pure Maths Tasks - Solve Equation 2
-ST61Q08,Experience with Applied Maths Tasks - Calculate Power Consumption Rate
-ST61Q09,Experience with Applied Maths Tasks - Solve Equation 3
-ST62Q01,Familiarity with Math Concepts - Exponential Function
-ST62Q02,Familiarity with Math Concepts - Divisor
-ST62Q03,Familiarity with Math Concepts - Quadratic Function
-ST62Q04,Overclaiming - Proper Number
-ST62Q06,Familiarity with Math Concepts - Linear Equation
-ST62Q07,Familiarity with Math Concepts - Vectors
-ST62Q08,Familiarity with Math Concepts - Complex Number
-ST62Q09,Familiarity with Math Concepts - Rational Number
-ST62Q10,Familiarity with Math Concepts - Radicals
-ST62Q11,Overclaiming - Subjunctive Scaling
-ST62Q12,Familiarity with Math Concepts - Polygon
-ST62Q13,Overclaiming - Declarative Fraction
-ST62Q15,Familiarity with Math Concepts - Congruent Figure
-ST62Q16,Familiarity with Math Concepts - Cosine
-ST62Q17,Familiarity with Math Concepts - Arithmetic Mean
-ST62Q19,Familiarity with Math Concepts - Probability
-ST69Q01,Min in <class period> - <test lang>
-ST69Q02,Min in <class period> - <Maths>
-ST69Q03,Min in <class period> - <Science>
-ST70Q01,No of <class period> p/wk - <test lang>
-ST70Q02,No of <class period> p/wk - <Maths>
-ST70Q03,No of <class period> p/wk - <Science>
-ST71Q01,No of ALL <class period> a week
-ST72Q01,Class Size - No of Students in <Test Language> Class
-ST73Q01,OTL - Algebraic Word Problem in Math Lesson
-ST73Q02,OTL - Algebraic Word Problem in Tests
-ST74Q01,OTL - Procedural Task in Math Lesson
-ST74Q02,OTL - Procedural Task in Tests
-ST75Q01,OTL - Pure Math Reasoning in Math Lesson
-ST75Q02,OTL - Pure Math Reasoning in Tests
-ST76Q01,OTL - Applied Math Reasoning in Math Lesson
-ST76Q02,OTL - Applied Math Reasoning in Tests
-ST77Q01,Math Teaching - Teacher shows interest
-ST77Q02,Math Teaching - Extra help
-ST77Q04,Math Teaching - Teacher helps
-ST77Q05,Math Teaching - Teacher continues
-ST77Q06,Math Teaching - Express opinions
-ST79Q01,Teacher-Directed Instruction - Sets Clear Goals
-ST79Q02,Teacher-Directed Instruction - Encourages Thinking and Reasoning
-ST79Q03,Student Orientation - Differentiates Between Students When Giving Tasks
-ST79Q04,Student Orientation - Assigns Complex Projects
-ST79Q05,Formative Assessment - Gives Feedback
-ST79Q06,Teacher-Directed Instruction - Checks Understanding
-ST79Q07,Student Orientation - Has Students Work in Small Groups
-ST79Q08,Teacher-Directed Instruction - Summarizes Previous Lessons
-ST79Q10,Student Orientation - Plans Classroom Activities
-ST79Q11,Formative Assessment - Gives Feedback on Strengths and Weaknesses
-ST79Q12,Formative Assessment - Informs about Expectations
-ST79Q15,Teacher-Directed Instruction - Informs about Learning Goals
-ST79Q17,Formative Assessment - Tells How to Get Better
-ST80Q01,Cognitive Activation - Teacher Encourages to Reflect Problems
-ST80Q04,Cognitive Activation - Gives Problems that Require to Think
-ST80Q05,Cognitive Activation - Asks to Use Own Procedures
-ST80Q06,Cognitive Activation - Presents Problems with No Obvious Solutions
-ST80Q07,Cognitive Activation - Presents Problems in Different Contexts
-ST80Q08,Cognitive Activation - Helps Learn from Mistakes
-ST80Q09,Cognitive Activation - Asks for Explanations
-ST80Q10,Cognitive Activation - Apply What We Learned
-ST80Q11,Cognitive Activation - Problems with Multiple Solutions
-ST81Q01,Disciplinary Climate - Students Don’t Listen
-ST81Q02,Disciplinary Climate - Noise and Disorder
-ST81Q03,Disciplinary Climate - Teacher Has to Wait Until its Quiet
-ST81Q04,Disciplinary Climate - Students Don’t Work Well
-ST81Q05,Disciplinary Climate - Students Start Working Late
-ST82Q01,Vignette Teacher Support -Homework Every Other Day/Back in Time
-ST82Q02,Vignette Teacher Support - Homework Once a Week/Back in Time
-ST82Q03,Vignette Teacher Support - Homework Once a Week/Not Back in Time
-ST83Q01,Teacher Support - Lets Us Know We Have to Work Hard
-ST83Q02,Teacher Support - Provides Extra Help When Needed
-ST83Q03,Teacher Support - Helps Students with Learning
-ST83Q04,Teacher Support - Gives Opportunity to Express Opinions
-ST84Q01,Vignette Classroom Management - Students Frequently Interrupt/Teacher Arrives Early
-ST84Q02,Vignette Classroom Management - Students Are Calm/Teacher Arrives on Time
-ST84Q03,Vignette Classroom Management - Students Frequently Interrupt/Teacher Arrives Late
-ST85Q01,Classroom Management - Students Listen
-ST85Q02,Classroom Management - Teacher Keeps Class Orderly
-ST85Q03,Classroom Management - Teacher Starts On Time
-ST85Q04,Classroom Management - Wait Long to <Quiet Down>
-ST86Q01,Student-Teacher Relation - Get Along with Teachers
-ST86Q02,Student-Teacher Relation - Teachers Are Interested
-ST86Q03,Student-Teacher Relation - Teachers Listen to Students
-ST86Q04,Student-Teacher Relation - Teachers Help Students
-ST86Q05,Student-Teacher Relation - Teachers Treat Students Fair
-ST87Q01,Sense of Belonging - Feel Like Outsider
-ST87Q02,Sense of Belonging - Make Friends Easily
-ST87Q03,Sense of Belonging - Belong at School
-ST87Q04,Sense of Belonging - Feel Awkward at School
-ST87Q05,Sense of Belonging - Liked by Other Students
-ST87Q06,Sense of Belonging - Feel Lonely at School
-ST87Q07,Sense of Belonging - Feel Happy at School
-ST87Q08,Sense of Belonging - Things Are Ideal at School
-ST87Q09,Sense of Belonging - Satisfied at School
-ST88Q01,Attitude towards School - Does Little to Prepare Me for Life
-ST88Q02,Attitude towards School - Waste of Time
-ST88Q03,Attitude towards School - Gave Me Confidence
-ST88Q04,Attitude towards School- Useful for Job
-ST89Q02,Attitude toward School - Helps to Get a Job
-ST89Q03,Attitude toward School - Prepare for College
-ST89Q04,Attitude toward School - Enjoy Good Grades
-ST89Q05,Attitude toward School - Trying Hard is Important
-ST91Q01,Perceived Control - Can Succeed with Enough Effort
-ST91Q02,Perceived Control - My Choice Whether I Will Be Good
-ST91Q03,Perceived Control - Problems Prevent from Putting Effort into School
-ST91Q04,Perceived Control - Different Teachers Would Make Me Try Harder
-ST91Q05,Perceived Control - Could Perform Well if I Wanted
-ST91Q06,Perceived Control - Perform Poor Regardless
-ST93Q01,Perseverance - Give up easily
-ST93Q03,Perseverance - Put off difficult problems
-ST93Q04,Perseverance - Remain interested
-ST93Q06,Perseverance - Continue to perfection
-ST93Q07,Perseverance - Exceed expectations
-ST94Q05,Openness for Problem Solving - Can Handle a Lot of Information
-ST94Q06,Openness for Problem Solving - Quick to Understand
-ST94Q09,Openness for Problem Solving - Seek Explanations
-ST94Q10,Openness for Problem Solving - Can Link Facts
-ST94Q14,Openness for Problem Solving - Like to Solve Complex Problems
-ST96Q01,Problem Text Message - Press every button
-ST96Q02,Problem Text Message - Trace steps
-ST96Q03,Problem Text Message - Manual
-ST96Q05,Problem Text Message - Ask a friend
-ST101Q01,Problem Route Selection - Read brochure
-ST101Q02,Problem Route Selection - Study map
-ST101Q03,Problem Route Selection - Leave it to brother
-ST101Q05,Problem Route Selection - Just drive
-ST104Q01,Problem Ticket Machine - Similarities
-ST104Q04,Problem Ticket Machine - Try buttons
-ST104Q05,Problem Ticket Machine - Ask for help
-ST104Q06,Problem Ticket Machine - Find ticket office
-IC01Q01,At Home - Desktop Computer
-IC01Q02,At Home - Portable laptop
-IC01Q03,At Home - Tablet computer
-IC01Q04,At Home - Internet connection
-IC01Q05,At Home - Video games console
-IC01Q06,At Home - Cell phone w/o Internet
-IC01Q07,At Home - Cell phone with Internet
-IC01Q08,At Home - Mp3/Mp4 player
-IC01Q09,At Home - Printer
-IC01Q10,At Home - USB (memory) stick
-IC01Q11,At Home - Ebook reader
-IC02Q01,At school - Desktop Computer
-IC02Q02,At school - Portable laptop
-IC02Q03,At school - Tablet computer
-IC02Q04,At school - Internet connection
-IC02Q05,At school - Printer
-IC02Q06,At school - USB (memory) stick
-IC02Q07,At school - Ebook reader
-IC03Q01,First use of computers
-IC04Q01,First access to Internet
-IC05Q01,Internet at School
-IC06Q01,Internet out-of-school - Weekday
-IC07Q01,Internet out-of-school - Weekend
-IC08Q01,Out-of-school 8 - One player games.
-IC08Q02,Out-of-school 8 - ColLabourative games.
-IC08Q03,Out-of-school 8 - Use email
-IC08Q04,Out-of-school 8 - Chat on line
-IC08Q05,Out-of-school 8 - Social networks
-IC08Q06,Out-of-school 8 - Browse the Internet for fun
-IC08Q07,Out-of-school 8 - Read news
-IC08Q08,Out-of-school 8 - Obtain practical information from the Internet
-IC08Q09,Out-of-school 8 - Download music
-IC08Q11,Out-of-school 8 - Upload content
-IC09Q01,Out-of-school 9 - Internet for school
-IC09Q02,Out-of-school 9 - Email students
-IC09Q03,Out-of-school 9 - Email teachers
-IC09Q04,Out-of-school 9 - Download from School
-IC09Q05,Out-of-school 9 - Announcements
-IC09Q06,Out-of-school 9 - Homework
-IC09Q07,Out-of-school 9 - Share school material
-IC10Q01,At School - Chat on line
-IC10Q02,At School - Email
-IC10Q03,At School - Browse for schoolwork
-IC10Q04,At School - Download from website
-IC10Q05,At School - Post on website
-IC10Q06,At School - Simulations
-IC10Q07,At School - Practice and drilling
-IC10Q08,At School - Homework
-IC10Q09,At School - Group work
-IC11Q01,Maths lessons - Draw graph
-IC11Q02,Maths lessons - Calculation with numbers
-IC11Q03,Maths lessons - Geometric figures
-IC11Q04,Maths lessons - Spreadsheet
-IC11Q05,Maths lessons - Algebra
-IC11Q06,Maths lessons - Histograms
-IC11Q07,Maths lessons - Change in graphs
-IC22Q01,Attitudes - Useful for schoolwork
-IC22Q02,Attitudes - Homework more fun
-IC22Q04,Attitudes - Source of information
-IC22Q06,Attitudes - Troublesome
-IC22Q07,Attitudes - Not suitable for schoolwork
-IC22Q08,Attitudes - Too unreliable
-EC01Q01,Miss 2 months of <ISCED 1>
-EC02Q01,Miss 2 months of <ISCED 2>
-EC03Q01,Future Orientation - Internship
-EC03Q02,Future Orientation - Work-site visits
-EC03Q03,Future Orientation - Job fair
-EC03Q04,Future Orientation - Career advisor at school
-EC03Q05,Future Orientation - Career advisor outside school
-EC03Q06,Future Orientation - Questionnaire
-EC03Q07,Future Orientation - Internet search
-EC03Q08,Future Orientation - Tour<ISCED 3-5> institution
-EC03Q09,Future Orientation - web search <ISCED 3-5> prog
-EC03Q10,Future Orientation - <country specific item>
-EC04Q01A,"Acquired skills - Find job info - Yes, at school"
-EC04Q01B,"Acquired skills - Find job info - Yes, out of school"
-EC04Q01C,"Acquired skills - Find job info - No, never"
-EC04Q02A,"Acquired skills - Search for job - Yes, at school"
-EC04Q02B,"Acquired skills - Search for job - Yes, out of school"
-EC04Q02C,"Acquired skills - Search for job - No, never"
-EC04Q03A,"Acquired skills - Write resume - Yes, at school"
-EC04Q03B,"Acquired skills - Write resume - Yes, out of school"
-EC04Q03C,"Acquired skills - Write resume - No, never"
-EC04Q04A,"Acquired skills - Job interview - Yes, at school"
-EC04Q04B,"Acquired skills - Job interview - Yes, out of school"
-EC04Q04C,"Acquired skills - Job interview - No, never"
-EC04Q05A,"Acquired skills - ISCED 3-5 programs - Yes, at school"
-EC04Q05B,"Acquired skills - ISCED 3-5 programs - Yes, out of school"
-EC04Q05C,"Acquired skills - ISCED 3-5 programs - No, never"
-EC04Q06A,"Acquired skills - Student financing - Yes, at school"
-EC04Q06B,"Acquired skills - Student financing - Yes, out of school"
-EC04Q06C,"Acquired skills - Student financing - No, never"
-EC05Q01,First language learned
-EC06Q01,Age started learning <test language>
-EC07Q01,Language spoken - Mother
-EC07Q02,Language spoken - Father
-EC07Q03,Language spoken - Siblings
-EC07Q04,Language spoken - Best friend
-EC07Q05,Language spoken - Schoolmates
-EC08Q01,Activities language - Reading
-EC08Q02,Activities language - Watching TV
-EC08Q03,Activities language - Internet surfing
-EC08Q04,Activities language - Writing emails
-EC09Q03,Types of support <test language> - remedial lessons
-EC10Q01,Amount of support <test language>
-EC11Q02,Attend lessons <heritage language> - focused
-EC11Q03,Attend lessons <heritage language> - school subjects
-EC12Q01,Instruction in <heritage language>
-ST22Q01,Acculturation - Mother Immigrant (Filter)
-ST23Q01,Acculturation - Enjoy <Host Culture> Friends
-ST23Q02,Acculturation - Enjoy <Heritage Culture> Friends
-ST23Q03,Acculturation - Enjoy <Host Culture> Celebrations
-ST23Q04,Acculturation - Enjoy <Heritage Culture> Celebrations
-ST23Q05,Acculturation - Spend Time with <Host Culture> Friends
-ST23Q06,Acculturation - Spend Time with <Heritage Culture> Friends
-ST23Q07,Acculturation - Participate in <Host Culture> Celebrations
-ST23Q08,Acculturation - Participate in <Heritage Culture> Celebrations
-ST24Q01,Acculturation - Perceived Host-Heritage Cultural Differences - Values
-ST24Q02,Acculturation - Perceived Host-Heritage Cultural Differences - Mother Treatment
-ST24Q03,Acculturation - Perceived Host-Heritage Cultural Differences - Teacher Treatment
-CLCUSE1,Calculator Use
-CLCUSE301,Effort-real 1
-CLCUSE302,Effort-real 2
-DEFFORT,Difference in Effort
-QUESTID,Student Questionnaire Form
-BOOKID,Booklet ID
-EASY,Standard or simplified set of booklets
-AGE,Age of student
-GRADE,Grade compared to modal grade in country
-PROGN,Unique national study programme code
-ANXMAT,Mathematics Anxiety
-ATSCHL,Attitude towards School: Learning Outcomes
-ATTLNACT,Attitude towards School: Learning Activities
-BELONG,Sense of Belonging to School
-BFMJ2,Father SQ ISEI
-BMMJ1,Mother SQ ISEI
-CLSMAN,Mathematics Teacher's Classroom Management
-COBN_F,Country of Birth National Categories- Father
-COBN_M,Country of Birth National Categories- Mother
-COBN_S,Country of Birth National Categories- Self
-COGACT,Cognitive Activation in Mathematics Lessons
-CULTDIST,Cultural Distance between Host and Heritage Culture
-CULTPOS,Cultural Possessions
-DISCLIMA,Disciplinary Climate
-ENTUSE,ICT Entertainment Use
-ESCS,"Index of economic, social and cultural status"
-EXAPPLM,Experience with Applied Mathematics Tasks at School
-EXPUREM,Experience with Pure Mathematics Tasks at School
-FAILMAT,Attributions to Failure in Mathematics
-FAMCON,Familiarity with Mathematical Concepts
-FAMCONC,Familiarity with Mathematical Concepts (Signal Detection  Adjusted)
-FAMSTRUC,Family Structure
-FISCED,Educational level of father (ISCED)
-HEDRES,Home educational resources
-HERITCUL,Acculturation: Heritage Culture Oriented  Strategies
-HISCED,Highest educational level of parents
-HISEI,Highest parental occupational status
-HOMEPOS,Home Possessions
-HOMSCH,ICT Use at Home for School-related Tasks
-HOSTCUL,Acculturation: Host Culture Oriented Strategies
-ICTATTNEG,Attitudes Towards Computers: Limitations of the Computer as a Tool for School Learning
-ICTATTPOS,Attitudes Towards Computers: Computer as a Tool for School Learning
-ICTHOME,ICT Availability at Home
-ICTRES,ICT resources
-ICTSCH,ICT Availability at School
-IMMIG,Immigration status
-INFOCAR,Information about Careers
-INFOJOB1,Information about the Labour Market provided by the School
-INFOJOB2,Information about the Labour Market provided outside of School
-INSTMOT,Instrumental Motivation for Mathematics
-INTMAT,Mathematics Interest
-ISCEDD,ISCED designation
-ISCEDL,ISCED level
-ISCEDO,ISCED orientation
-LANGCOMM,Preference for Heritage Language in Conversations with Family and Friends
-LANGN,Language at home (3-digit code)
-LANGRPPD,Preference for Heritage Language in Language Reception and Production
-LMINS,Learning time (minutes per week)  - <test language>
-MATBEH,Mathematics Behaviour
-MATHEFF,Mathematics Self-Efficacy
-MATINTFC,Mathematics Intentions
-MATWKETH,Mathematics Work Ethic
-MISCED,Educational level of mother (ISCED)
-MMINS,Learning time (minutes per week)- <Mathematics>
-MTSUP,Mathematics Teacher's Support
-OCOD1,ISCO-08 Occupation code - Mother
-OCOD2,ISCO-08 Occupation code - Father
-OPENPS,Openness for Problem Solving
-OUTHOURS,Out-of-School Study Time
-PARED,Highest parental education in years
-PERSEV,Perseverance
-REPEAT,Grade Repetition
-SCMAT,Mathematics Self-Concept
-SMINS,Learning time (minutes per week) - <Science>
-STUDREL,Teacher Student Relations
-SUBNORM,Subjective Norms in Mathematics
-TCHBEHFA,Teacher Behaviour: Formative Assessment
-TCHBEHSO,Teacher Behaviour: Student Orientation
-TCHBEHTD,Teacher Behaviour: Teacher-directed Instruction
-TEACHSUP,Teacher Support
-TESTLANG,Language of the test
-TIMEINT,Time of computer use (mins)
-USEMATH,Use of ICT in Mathematic Lessons
-USESCH,Use of ICT at School
-WEALTH,Wealth
-ANCATSCHL,Attitude towards School: Learning Outcomes (Anchored)
-ANCATTLNACT,Attitude towards School: Learning Activities (Anchored)
-ANCBELONG,Sense of Belonging to School (Anchored)
-ANCCLSMAN,Mathematics Teacher's Classroom Management (Anchored)
-ANCCOGACT,Cognitive Activation in Mathematics Lessons (Anchored)
-ANCINSTMOT,Instrumental Motivation for Mathematics (Anchored)
-ANCINTMAT,Mathematics Interest (Anchored)
-ANCMATWKETH,Mathematics Work Ethic (Anchored)
-ANCMTSUP,Mathematics Teacher's Support (Anchored)
-ANCSCMAT,Mathematics Self-Concept (Anchored)
-ANCSTUDREL,Teacher Student Relations (Anchored)
-ANCSUBNORM,Subjective Norms in Mathematics (Anchored)
-PV1MATH,Plausible value 1 in mathematics
-PV2MATH,Plausible value 2 in mathematics
-PV3MATH,Plausible value 3 in mathematics
-PV4MATH,Plausible value 4 in mathematics
-PV5MATH,Plausible value 5 in mathematics
-PV1MACC,Plausible value 1 in content subscale of math - Change and Relationships
-PV2MACC,Plausible value 2 in content subscale of math - Change and Relationships
-PV3MACC,Plausible value 3 in content subscale of math - Change and Relationships
-PV4MACC,Plausible value 4 in content subscale of math - Change and Relationships
-PV5MACC,Plausible value 5 in content subscale of math - Change and Relationships
-PV1MACQ,Plausible value 1 in content subscale of math - Quantity
-PV2MACQ,Plausible value 2 in content subscale of math - Quantity
-PV3MACQ,Plausible value 3 in content subscale of math - Quantity
-PV4MACQ,Plausible value 4 in content subscale of math - Quantity
-PV5MACQ,Plausible value 5 in content subscale of math - Quantity
-PV1MACS,Plausible value 1 in content subscale of math - Space and Shape
-PV2MACS,Plausible value 2 in content subscale of math - Space and Shape
-PV3MACS,Plausible value 3 in content subscale of math - Space and Shape
-PV4MACS,Plausible value 4 in content subscale of math - Space and Shape
-PV5MACS,Plausible value 5 in content subscale of math - Space and Shape
-PV1MACU,Plausible value 1 in content subscale of math - Uncertainty and Data
-PV2MACU,Plausible value 2 in content subscale of math - Uncertainty and Data
-PV3MACU,Plausible value 3 in content subscale of math - Uncertainty and Data
-PV4MACU,Plausible value 4 in content subscale of math - Uncertainty and Data
-PV5MACU,Plausible value 5 in content subscale of math - Uncertainty and Data
-PV1MAPE,Plausible value 1 in process subscale of math - Employ
-PV2MAPE,Plausible value 2 in process subscale of math - Employ
-PV3MAPE,Plausible value 3 in process subscale of math - Employ
-PV4MAPE,Plausible value 4 in process subscale of math - Employ
-PV5MAPE,Plausible value 5 in process subscale of math - Employ
-PV1MAPF,Plausible value 1 in process subscale of math - Formulate
-PV2MAPF,Plausible value 2 in process subscale of math - Formulate
-PV3MAPF,Plausible value 3 in process subscale of math - Formulate
-PV4MAPF,Plausible value 4 in process subscale of math - Formulate
-PV5MAPF,Plausible value 5 in process subscale of math - Formulate
-PV1MAPI,Plausible value 1 in process subscale of math - Interpret
-PV2MAPI,Plausible value 2 in process subscale of math - Interpret
-PV3MAPI,Plausible value 3 in process subscale of math - Interpret
-PV4MAPI,Plausible value 4 in process subscale of math - Interpret
-PV5MAPI,Plausible value 5 in process subscale of math - Interpret
-PV1READ,Plausible value 1 in reading
-PV2READ,Plausible value 2 in reading
-PV3READ,Plausible value 3 in reading
-PV4READ,Plausible value 4 in reading
-PV5READ,Plausible value 5 in reading
-PV1SCIE,Plausible value 1 in science
-PV2SCIE,Plausible value 2 in science
-PV3SCIE,Plausible value 3 in science
-PV4SCIE,Plausible value 4 in science
-PV5SCIE,Plausible value 5 in science
-W_FSTUWT,FINAL STUDENT WEIGHT
-W_FSTR1,FINAL STUDENT REPLICATE BRR-FAY WEIGHT1
-W_FSTR2,FINAL STUDENT REPLICATE BRR-FAY WEIGHT2
-W_FSTR3,FINAL STUDENT REPLICATE BRR-FAY WEIGHT3
-W_FSTR4,FINAL STUDENT REPLICATE BRR-FAY WEIGHT4
-W_FSTR5,FINAL STUDENT REPLICATE BRR-FAY WEIGHT5
-W_FSTR6,FINAL STUDENT REPLICATE BRR-FAY WEIGHT6
-W_FSTR7,FINAL STUDENT REPLICATE BRR-FAY WEIGHT7
-W_FSTR8,FINAL STUDENT REPLICATE BRR-FAY WEIGHT8
-W_FSTR9,FINAL STUDENT REPLICATE BRR-FAY WEIGHT9
-W_FSTR10,FINAL STUDENT REPLICATE BRR-FAY WEIGHT10
-W_FSTR11,FINAL STUDENT REPLICATE BRR-FAY WEIGHT11
-W_FSTR12,FINAL STUDENT REPLICATE BRR-FAY WEIGHT12
-W_FSTR13,FINAL STUDENT REPLICATE BRR-FAY WEIGHT13
-W_FSTR14,FINAL STUDENT REPLICATE BRR-FAY WEIGHT14
-W_FSTR15,FINAL STUDENT REPLICATE BRR-FAY WEIGHT15
-W_FSTR16,FINAL STUDENT REPLICATE BRR-FAY WEIGHT16
-W_FSTR17,FINAL STUDENT REPLICATE BRR-FAY WEIGHT17
-W_FSTR18,FINAL STUDENT REPLICATE BRR-FAY WEIGHT18
-W_FSTR19,FINAL STUDENT REPLICATE BRR-FAY WEIGHT19
-W_FSTR20,FINAL STUDENT REPLICATE BRR-FAY WEIGHT20
-W_FSTR21,FINAL STUDENT REPLICATE BRR-FAY WEIGHT21
-W_FSTR22,FINAL STUDENT REPLICATE BRR-FAY WEIGHT22
-W_FSTR23,FINAL STUDENT REPLICATE BRR-FAY WEIGHT23
-W_FSTR24,FINAL STUDENT REPLICATE BRR-FAY WEIGHT24
-W_FSTR25,FINAL STUDENT REPLICATE BRR-FAY WEIGHT25
-W_FSTR26,FINAL STUDENT REPLICATE BRR-FAY WEIGHT26
-W_FSTR27,FINAL STUDENT REPLICATE BRR-FAY WEIGHT27
-W_FSTR28,FINAL STUDENT REPLICATE BRR-FAY WEIGHT28
-W_FSTR29,FINAL STUDENT REPLICATE BRR-FAY WEIGHT29
-W_FSTR30,FINAL STUDENT REPLICATE BRR-FAY WEIGHT30
-W_FSTR31,FINAL STUDENT REPLICATE BRR-FAY WEIGHT31
-W_FSTR32,FINAL STUDENT REPLICATE BRR-FAY WEIGHT32
-W_FSTR33,FINAL STUDENT REPLICATE BRR-FAY WEIGHT33
-W_FSTR34,FINAL STUDENT REPLICATE BRR-FAY WEIGHT34
-W_FSTR35,FINAL STUDENT REPLICATE BRR-FAY WEIGHT35
-W_FSTR36,FINAL STUDENT REPLICATE BRR-FAY WEIGHT36
-W_FSTR37,FINAL STUDENT REPLICATE BRR-FAY WEIGHT37
-W_FSTR38,FINAL STUDENT REPLICATE BRR-FAY WEIGHT38
-W_FSTR39,FINAL STUDENT REPLICATE BRR-FAY WEIGHT39
-W_FSTR40,FINAL STUDENT REPLICATE BRR-FAY WEIGHT40
-W_FSTR41,FINAL STUDENT REPLICATE BRR-FAY WEIGHT41
-W_FSTR42,FINAL STUDENT REPLICATE BRR-FAY WEIGHT42
-W_FSTR43,FINAL STUDENT REPLICATE BRR-FAY WEIGHT43
-W_FSTR44,FINAL STUDENT REPLICATE BRR-FAY WEIGHT44
-W_FSTR45,FINAL STUDENT REPLICATE BRR-FAY WEIGHT45
-W_FSTR46,FINAL STUDENT REPLICATE BRR-FAY WEIGHT46
-W_FSTR47,FINAL STUDENT REPLICATE BRR-FAY WEIGHT47
-W_FSTR48,FINAL STUDENT REPLICATE BRR-FAY WEIGHT48
-W_FSTR49,FINAL STUDENT REPLICATE BRR-FAY WEIGHT49
-W_FSTR50,FINAL STUDENT REPLICATE BRR-FAY WEIGHT50
-W_FSTR51,FINAL STUDENT REPLICATE BRR-FAY WEIGHT51
-W_FSTR52,FINAL STUDENT REPLICATE BRR-FAY WEIGHT52
-W_FSTR53,FINAL STUDENT REPLICATE BRR-FAY WEIGHT53
-W_FSTR54,FINAL STUDENT REPLICATE BRR-FAY WEIGHT54
-W_FSTR55,FINAL STUDENT REPLICATE BRR-FAY WEIGHT55
-W_FSTR56,FINAL STUDENT REPLICATE BRR-FAY WEIGHT56
-W_FSTR57,FINAL STUDENT REPLICATE BRR-FAY WEIGHT57
-W_FSTR58,FINAL STUDENT REPLICATE BRR-FAY WEIGHT58
-W_FSTR59,FINAL STUDENT REPLICATE BRR-FAY WEIGHT59
-W_FSTR60,FINAL STUDENT REPLICATE BRR-FAY WEIGHT60
-W_FSTR61,FINAL STUDENT REPLICATE BRR-FAY WEIGHT61
-W_FSTR62,FINAL STUDENT REPLICATE BRR-FAY WEIGHT62
-W_FSTR63,FINAL STUDENT REPLICATE BRR-FAY WEIGHT63
-W_FSTR64,FINAL STUDENT REPLICATE BRR-FAY WEIGHT64
-W_FSTR65,FINAL STUDENT REPLICATE BRR-FAY WEIGHT65
-W_FSTR66,FINAL STUDENT REPLICATE BRR-FAY WEIGHT66
-W_FSTR67,FINAL STUDENT REPLICATE BRR-FAY WEIGHT67
-W_FSTR68,FINAL STUDENT REPLICATE BRR-FAY WEIGHT68
-W_FSTR69,FINAL STUDENT REPLICATE BRR-FAY WEIGHT69
-W_FSTR70,FINAL STUDENT REPLICATE BRR-FAY WEIGHT70
-W_FSTR71,FINAL STUDENT REPLICATE BRR-FAY WEIGHT71
-W_FSTR72,FINAL STUDENT REPLICATE BRR-FAY WEIGHT72
-W_FSTR73,FINAL STUDENT REPLICATE BRR-FAY WEIGHT73
-W_FSTR74,FINAL STUDENT REPLICATE BRR-FAY WEIGHT74
-W_FSTR75,FINAL STUDENT REPLICATE BRR-FAY WEIGHT75
-W_FSTR76,FINAL STUDENT REPLICATE BRR-FAY WEIGHT76
-W_FSTR77,FINAL STUDENT REPLICATE BRR-FAY WEIGHT77
-W_FSTR78,FINAL STUDENT REPLICATE BRR-FAY WEIGHT78
-W_FSTR79,FINAL STUDENT REPLICATE BRR-FAY WEIGHT79
-W_FSTR80,FINAL STUDENT REPLICATE BRR-FAY WEIGHT80
-WVARSTRR,RANDOMIZED FINAL VARIANCE STRATUM (1-80)
-VAR_UNIT,RANDOMLY ASSIGNED VARIANCE UNIT
-SENWGT_STU,Senate weight - sum of weight within the country is 1000
-VER_STU,Date of the database creation
+Index,Code,Description,Exclude
+0,CNT,Country code 3-character,
+1,SUBNATIO,Adjudicated sub-region code 7-digit code (3-digit country code + region ID + stratum ID),
+2,STRATUM,Stratum ID 7-character (cnt + region ID + original stratum ID),
+3,OECD,OECD country,
+4,NC,National Centre 6-digit Code,
+5,SCHOOLID,School ID 7-digit (region ID + stratum ID + 3-digit school ID),
+6,STIDSTD,Student ID,
+7,ST01Q01,International Grade,
+8,ST02Q01,National Study Programme,
+9,ST03Q01,Birth - Month,
+10,ST03Q02,Birth -Year,
+11,ST04Q01,Gender,
+12,ST05Q01,Attend <ISCED 0>,
+13,ST06Q01,Age at <ISCED 1>,
+14,ST07Q01,Repeat - <ISCED 1>,
+15,ST07Q02,Repeat - <ISCED 2>,
+16,ST07Q03,Repeat - <ISCED 3>,
+17,ST08Q01,Truancy - Late for School,
+18,ST09Q01,Truancy - Skip whole school day,
+19,ST115Q01,Truancy - Skip classes within school day,
+20,ST11Q01,At Home - Mother,
+21,ST11Q02,At Home - Father,
+22,ST11Q03,At Home - Brothers,
+23,ST11Q04,At Home - Sisters,
+24,ST11Q05,At Home - Grandparents,
+25,ST11Q06,At Home - Others,
+26,ST13Q01,Mother<Highest Schooling>,
+27,ST14Q01,Mother Qualifications - <ISCED level 6>,
+28,ST14Q02,Mother Qualifications - <ISCED level 5A>,
+29,ST14Q03,Mother Qualifications - <ISCED level 5B>,
+30,ST14Q04,Mother Qualifications - <ISCED level 4>,
+31,ST15Q01,Mother Current Job Status,
+32,ST17Q01,Father<Highest Schooling>,
+33,ST18Q01,Father Qualifications - <ISCED level 6>,
+34,ST18Q02,Father Qualifications - <ISCED level 5A>,
+35,ST18Q03,Father Qualifications - <ISCED level 5B>,
+36,ST18Q04,Father Qualifications - <ISCED level 4>,
+37,ST19Q01,Father Current Job Status,
+38,ST20Q01,Country of Birth International - Self,
+39,ST20Q02,Country of Birth International - Mother,
+40,ST20Q03,Country of Birth International - Father,
+41,ST21Q01,Age of arrival in <country of test>,
+42,ST25Q01,International Language at Home,
+43,ST26Q01,Possessions - desk,
+44,ST26Q02,Possessions - own room,
+45,ST26Q03,Possessions - study place,
+46,ST26Q04,Possessions - computer,
+47,ST26Q05,Possessions - software,
+48,ST26Q06,Possessions - Internet,
+49,ST26Q07,Possessions - literature,
+50,ST26Q08,Possessions - poetry,
+51,ST26Q09,Possessions - art,
+52,ST26Q10,Possessions - textbooks,
+53,ST26Q11,Possessions - <technical reference books>,
+54,ST26Q12,Possessions - dictionary,
+55,ST26Q13,Possessions - dishwasher,
+56,ST26Q14,Possessions - <DVD>,
+57,ST26Q15,Possessions - <Country item 1>,
+58,ST26Q16,Possessions - <Country item 2>,
+59,ST26Q17,Possessions - <Country item 3>,
+60,ST27Q01,How many - cellular phones,
+61,ST27Q02,How many - televisions,
+62,ST27Q03,How many - computers,
+63,ST27Q04,How many - cars,
+64,ST27Q05,How many - rooms bath or shower,
+65,ST28Q01,How many books at home,
+66,ST29Q01,Math Interest - Enjoy Reading,
+67,ST29Q02,Instrumental Motivation - Worthwhile for Work,
+68,ST29Q03,Math Interest - Look Forward to Lessons,
+69,ST29Q04,Math Interest - Enjoy Maths,
+70,ST29Q05,Instrumental Motivation - Worthwhile for Career Chances,
+71,ST29Q06,Math Interest - Interested,
+72,ST29Q07,Instrumental Motivation - Important for Future Study,
+73,ST29Q08,Instrumental Motivation - Helps to Get a Job,
+74,ST35Q01,Subjective Norms -Friends Do Well in Mathematics,
+75,ST35Q02,Subjective Norms -Friends Work Hard on Mathematics,
+76,ST35Q03,Subjective Norms - Friends Enjoy Mathematics Tests,
+77,ST35Q04,Subjective Norms - Parents Believe Studying Mathematics Is Important,
+78,ST35Q05,Subjective Norms - Parents Believe Mathematics Is Important for Career,
+79,ST35Q06,Subjective Norms - Parents Like Mathematics,
+80,ST37Q01,Math Self-Efficacy - Using a <Train Timetable>,
+81,ST37Q02,Math Self-Efficacy - Calculating TV Discount,
+82,ST37Q03,Math Self-Efficacy - Calculating Square Metres of Tiles,
+83,ST37Q04,Math Self-Efficacy - Understanding Graphs in Newspapers,
+84,ST37Q05,Math Self-Efficacy - Solving Equation 1,
+85,ST37Q06,Math Self-Efficacy - Distance to Scale,
+86,ST37Q07,Math Self-Efficacy - Solving Equation 2,
+87,ST37Q08,Math Self-Efficacy - Calculate Petrol Consumption Rate,
+88,ST42Q01,Math Anxiety - Worry That It Will Be Difficult,
+89,ST42Q02,Math Self-Concept - Not Good at Maths,
+90,ST42Q03,Math Anxiety - Get Very Tense,
+91,ST42Q04,Math Self-Concept- Get Good <Grades>,
+92,ST42Q05,Math Anxiety - Get Very Nervous,
+93,ST42Q06,Math Self-Concept - Learn Quickly,
+94,ST42Q07,Math Self-Concept - One of Best Subjects,
+95,ST42Q08,Math Anxiety - Feel Helpless,
+96,ST42Q09,Math Self-Concept - Understand Difficult Work,
+97,ST42Q10,Math Anxiety - Worry About Getting Poor <Grades>,
+98,ST43Q01,Perceived Control - Can Succeed with Enough Effort,
+99,ST43Q02,Perceived Control - Doing Well is Completely Up to Me,
+100,ST43Q03,Perceived Control - Family Demands and Problems,
+101,ST43Q04,Perceived Control - Different Teachers,
+102,ST43Q05,Perceived Control - If I Wanted I Could Perform Well,
+103,ST43Q06,Perceived Control - Perform Poorly Regardless,
+104,ST44Q01,Attributions to Failure - Not Good at Maths Problems,
+105,ST44Q03,Attributions to Failure - Teacher Did Not Explain Well,
+106,ST44Q04,Attributions to Failure - Bad Guesses,
+107,ST44Q05,Attributions to Failure - Material Too Hard,
+108,ST44Q07,Attributions to Failure - Teacher Didnt Get Students Interested,
+109,ST44Q08,Attributions to Failure - Unlucky,
+110,ST46Q01,Math Work Ethic - Homework Completed in Time,
+111,ST46Q02,Math Work Ethic - Work Hard on Homework,
+112,ST46Q03,Math Work Ethic - Prepared for Exams,
+113,ST46Q04,Math Work Ethic - Study Hard for Quizzes,
+114,ST46Q05,Math Work Ethic - Study Until I Understand Everything,
+115,ST46Q06,Math Work Ethic - Pay Attention in Classes,
+116,ST46Q07,Math Work Ethic - Listen in Classes,
+117,ST46Q08,Math Work Ethic - Avoid Distractions When Studying,
+118,ST46Q09,Math Work Ethic - Keep Work Organized,
+119,ST48Q01,Math Intentions - Mathematics vs. Language Courses After School,
+120,ST48Q02,Math Intentions - Mathematics vs. Science Related Major in College,
+121,ST48Q03,Math Intentions - Study Harder in Mathematics vs. Language Classes,
+122,ST48Q04,Math Intentions - Take Maximum Number of Mathematics vs. Science Classes,
+123,ST48Q05,Math Intentions - Pursuing a Career That Involves Mathematics vs. Science,
+124,ST49Q01,Math Behaviour - Talk about Maths with Friends,
+125,ST49Q02,Math Behaviour - Help Friends with Maths,
+126,ST49Q03,Math Behaviour - <Extracurricular> Activity,
+127,ST49Q04,Math Behaviour - Participate in Competitions,
+128,ST49Q05,Math Behaviour - Study More Than 2 Extra Hours a Day,
+129,ST49Q06,Math Behaviour - Play Chess,
+130,ST49Q07,Math Behaviour - Computer programming,
+131,ST49Q09,Math Behaviour - Participate in Math Club,
+132,ST53Q01,Learning Strategies- Important Parts vs. Existing Knowledge vs. Learn by Heart,
+133,ST53Q02,Learning Strategies- Improve Understanding vs. New Ways vs. Memory,
+134,ST53Q03,Learning Strategies - Other Subjects vs. Learning Goals vs. Rehearse Problems,
+135,ST53Q04,Learning Strategies - Repeat Examples vs. Everyday Applications vs. More Information,
+136,ST55Q01,Out of school lessons - <test lang>,
+137,ST55Q02,Out of school lessons - <maths>,
+138,ST55Q03,Out of school lessons - <science>,
+139,ST55Q04,Out of school lessons - other,
+140,ST57Q01,Out-of-School Study Time - Homework,
+141,ST57Q02,Out-of-School Study Time - Guided Homework,
+142,ST57Q03,Out-of-School Study Time - Personal Tutor,
+143,ST57Q04,Out-of-School Study Time - Commercial Company,
+144,ST57Q05,Out-of-School Study Time - With Parent,
+145,ST57Q06,Out-of-School Study Time - Computer,
+146,ST61Q01,Experience with Applied Maths Tasks - Use <Train Timetable>,
+147,ST61Q02,Experience with Applied Maths Tasks - Calculate Price including Tax,
+148,ST61Q03,Experience with Applied Maths Tasks - Calculate Square Metres,
+149,ST61Q04,Experience with Applied Maths Tasks - Understand Scientific Tables,
+150,ST61Q05,Experience with Pure Maths Tasks - Solve Equation 1,
+151,ST61Q06,Experience with Applied Maths Tasks - Use a Map to Calculate Distance,
+152,ST61Q07,Experience with Pure Maths Tasks - Solve Equation 2,
+153,ST61Q08,Experience with Applied Maths Tasks - Calculate Power Consumption Rate,
+154,ST61Q09,Experience with Applied Maths Tasks - Solve Equation 3,
+155,ST62Q01,Familiarity with Math Concepts - Exponential Function,
+156,ST62Q02,Familiarity with Math Concepts - Divisor,
+157,ST62Q03,Familiarity with Math Concepts - Quadratic Function,
+158,ST62Q04,Overclaiming - Proper Number,
+159,ST62Q06,Familiarity with Math Concepts - Linear Equation,
+160,ST62Q07,Familiarity with Math Concepts - Vectors,
+161,ST62Q08,Familiarity with Math Concepts - Complex Number,
+162,ST62Q09,Familiarity with Math Concepts - Rational Number,
+163,ST62Q10,Familiarity with Math Concepts - Radicals,
+164,ST62Q11,Overclaiming - Subjunctive Scaling,
+165,ST62Q12,Familiarity with Math Concepts - Polygon,
+166,ST62Q13,Overclaiming - Declarative Fraction,
+167,ST62Q15,Familiarity with Math Concepts - Congruent Figure,
+168,ST62Q16,Familiarity with Math Concepts - Cosine,
+169,ST62Q17,Familiarity with Math Concepts - Arithmetic Mean,
+170,ST62Q19,Familiarity with Math Concepts - Probability,
+171,ST69Q01,Min in <class period> - <test lang>,
+172,ST69Q02,Min in <class period> - <Maths>,
+173,ST69Q03,Min in <class period> - <Science>,
+174,ST70Q01,No of <class period> p/wk - <test lang>,
+175,ST70Q02,No of <class period> p/wk - <Maths>,
+176,ST70Q03,No of <class period> p/wk - <Science>,
+177,ST71Q01,No of ALL <class period> a week,
+178,ST72Q01,Class Size - No of Students in <Test Language> Class,
+179,ST73Q01,OTL - Algebraic Word Problem in Math Lesson,
+180,ST73Q02,OTL - Algebraic Word Problem in Tests,
+181,ST74Q01,OTL - Procedural Task in Math Lesson,
+182,ST74Q02,OTL - Procedural Task in Tests,
+183,ST75Q01,OTL - Pure Math Reasoning in Math Lesson,
+184,ST75Q02,OTL - Pure Math Reasoning in Tests,
+185,ST76Q01,OTL - Applied Math Reasoning in Math Lesson,
+186,ST76Q02,OTL - Applied Math Reasoning in Tests,
+187,ST77Q01,Math Teaching - Teacher shows interest,
+188,ST77Q02,Math Teaching - Extra help,
+189,ST77Q04,Math Teaching - Teacher helps,
+190,ST77Q05,Math Teaching - Teacher continues,
+191,ST77Q06,Math Teaching - Express opinions,
+192,ST79Q01,Teacher-Directed Instruction - Sets Clear Goals,
+193,ST79Q02,Teacher-Directed Instruction - Encourages Thinking and Reasoning,
+194,ST79Q03,Student Orientation - Differentiates Between Students When Giving Tasks,
+195,ST79Q04,Student Orientation - Assigns Complex Projects,
+196,ST79Q05,Formative Assessment - Gives Feedback,
+197,ST79Q06,Teacher-Directed Instruction - Checks Understanding,
+198,ST79Q07,Student Orientation - Has Students Work in Small Groups,
+199,ST79Q08,Teacher-Directed Instruction - Summarizes Previous Lessons,
+200,ST79Q10,Student Orientation - Plans Classroom Activities,
+201,ST79Q11,Formative Assessment - Gives Feedback on Strengths and Weaknesses,
+202,ST79Q12,Formative Assessment - Informs about Expectations,
+203,ST79Q15,Teacher-Directed Instruction - Informs about Learning Goals,
+204,ST79Q17,Formative Assessment - Tells How to Get Better,
+205,ST80Q01,Cognitive Activation - Teacher Encourages to Reflect Problems,
+206,ST80Q04,Cognitive Activation - Gives Problems that Require to Think,
+207,ST80Q05,Cognitive Activation - Asks to Use Own Procedures,
+208,ST80Q06,Cognitive Activation - Presents Problems with No Obvious Solutions,
+209,ST80Q07,Cognitive Activation - Presents Problems in Different Contexts,
+210,ST80Q08,Cognitive Activation - Helps Learn from Mistakes,
+211,ST80Q09,Cognitive Activation - Asks for Explanations,
+212,ST80Q10,Cognitive Activation - Apply What We Learned,
+213,ST80Q11,Cognitive Activation - Problems with Multiple Solutions,
+214,ST81Q01,Disciplinary Climate - Students Don’t Listen,
+215,ST81Q02,Disciplinary Climate - Noise and Disorder,
+216,ST81Q03,Disciplinary Climate - Teacher Has to Wait Until its Quiet,
+217,ST81Q04,Disciplinary Climate - Students Don’t Work Well,
+218,ST81Q05,Disciplinary Climate - Students Start Working Late,
+219,ST82Q01,Vignette Teacher Support -Homework Every Other Day/Back in Time,
+220,ST82Q02,Vignette Teacher Support - Homework Once a Week/Back in Time,
+221,ST82Q03,Vignette Teacher Support - Homework Once a Week/Not Back in Time,
+222,ST83Q01,Teacher Support - Lets Us Know We Have to Work Hard,
+223,ST83Q02,Teacher Support - Provides Extra Help When Needed,
+224,ST83Q03,Teacher Support - Helps Students with Learning,
+225,ST83Q04,Teacher Support - Gives Opportunity to Express Opinions,
+226,ST84Q01,Vignette Classroom Management - Students Frequently Interrupt/Teacher Arrives Early,
+227,ST84Q02,Vignette Classroom Management - Students Are Calm/Teacher Arrives on Time,
+228,ST84Q03,Vignette Classroom Management - Students Frequently Interrupt/Teacher Arrives Late,
+229,ST85Q01,Classroom Management - Students Listen,
+230,ST85Q02,Classroom Management - Teacher Keeps Class Orderly,
+231,ST85Q03,Classroom Management - Teacher Starts On Time,
+232,ST85Q04,Classroom Management - Wait Long to <Quiet Down>,
+233,ST86Q01,Student-Teacher Relation - Get Along with Teachers,
+234,ST86Q02,Student-Teacher Relation - Teachers Are Interested,
+235,ST86Q03,Student-Teacher Relation - Teachers Listen to Students,
+236,ST86Q04,Student-Teacher Relation - Teachers Help Students,
+237,ST86Q05,Student-Teacher Relation - Teachers Treat Students Fair,
+238,ST87Q01,Sense of Belonging - Feel Like Outsider,
+239,ST87Q02,Sense of Belonging - Make Friends Easily,
+240,ST87Q03,Sense of Belonging - Belong at School,
+241,ST87Q04,Sense of Belonging - Feel Awkward at School,
+242,ST87Q05,Sense of Belonging - Liked by Other Students,
+243,ST87Q06,Sense of Belonging - Feel Lonely at School,
+244,ST87Q07,Sense of Belonging - Feel Happy at School,
+245,ST87Q08,Sense of Belonging - Things Are Ideal at School,
+246,ST87Q09,Sense of Belonging - Satisfied at School,
+247,ST88Q01,Attitude towards School - Does Little to Prepare Me for Life,
+248,ST88Q02,Attitude towards School - Waste of Time,
+249,ST88Q03,Attitude towards School - Gave Me Confidence,
+250,ST88Q04,Attitude towards School- Useful for Job,
+251,ST89Q02,Attitude toward School - Helps to Get a Job,
+252,ST89Q03,Attitude toward School - Prepare for College,
+253,ST89Q04,Attitude toward School - Enjoy Good Grades,
+254,ST89Q05,Attitude toward School - Trying Hard is Important,
+255,ST91Q01,Perceived Control - Can Succeed with Enough Effort,
+256,ST91Q02,Perceived Control - My Choice Whether I Will Be Good,
+257,ST91Q03,Perceived Control - Problems Prevent from Putting Effort into School,
+258,ST91Q04,Perceived Control - Different Teachers Would Make Me Try Harder,
+259,ST91Q05,Perceived Control - Could Perform Well if I Wanted,
+260,ST91Q06,Perceived Control - Perform Poor Regardless,
+261,ST93Q01,Perseverance - Give up easily,
+262,ST93Q03,Perseverance - Put off difficult problems,
+263,ST93Q04,Perseverance - Remain interested,
+264,ST93Q06,Perseverance - Continue to perfection,
+265,ST93Q07,Perseverance - Exceed expectations,
+266,ST94Q05,Openness for Problem Solving - Can Handle a Lot of Information,
+267,ST94Q06,Openness for Problem Solving - Quick to Understand,
+268,ST94Q09,Openness for Problem Solving - Seek Explanations,
+269,ST94Q10,Openness for Problem Solving - Can Link Facts,
+270,ST94Q14,Openness for Problem Solving - Like to Solve Complex Problems,
+271,ST96Q01,Problem Text Message - Press every button,
+272,ST96Q02,Problem Text Message - Trace steps,
+273,ST96Q03,Problem Text Message - Manual,
+274,ST96Q05,Problem Text Message - Ask a friend,
+275,ST101Q01,Problem Route Selection - Read brochure,
+276,ST101Q02,Problem Route Selection - Study map,
+277,ST101Q03,Problem Route Selection - Leave it to brother,
+278,ST101Q05,Problem Route Selection - Just drive,
+279,ST104Q01,Problem Ticket Machine - Similarities,
+280,ST104Q04,Problem Ticket Machine - Try buttons,
+281,ST104Q05,Problem Ticket Machine - Ask for help,
+282,ST104Q06,Problem Ticket Machine - Find ticket office,
+283,IC01Q01,At Home - Desktop Computer,
+284,IC01Q02,At Home - Portable laptop,
+285,IC01Q03,At Home - Tablet computer,
+286,IC01Q04,At Home - Internet connection,
+287,IC01Q05,At Home - Video games console,
+288,IC01Q06,At Home - Cell phone w/o Internet,
+289,IC01Q07,At Home - Cell phone with Internet,
+290,IC01Q08,At Home - Mp3/Mp4 player,
+291,IC01Q09,At Home - Printer,
+292,IC01Q10,At Home - USB (memory) stick,
+293,IC01Q11,At Home - Ebook reader,
+294,IC02Q01,At school - Desktop Computer,
+295,IC02Q02,At school - Portable laptop,
+296,IC02Q03,At school - Tablet computer,
+297,IC02Q04,At school - Internet connection,
+298,IC02Q05,At school - Printer,
+299,IC02Q06,At school - USB (memory) stick,
+300,IC02Q07,At school - Ebook reader,
+301,IC03Q01,First use of computers,
+302,IC04Q01,First access to Internet,
+303,IC05Q01,Internet at School,
+304,IC06Q01,Internet out-of-school - Weekday,
+305,IC07Q01,Internet out-of-school - Weekend,
+306,IC08Q01,Out-of-school 8 - One player games.,
+307,IC08Q02,Out-of-school 8 - ColLabourative games.,
+308,IC08Q03,Out-of-school 8 - Use email,
+309,IC08Q04,Out-of-school 8 - Chat on line,
+310,IC08Q05,Out-of-school 8 - Social networks,
+311,IC08Q06,Out-of-school 8 - Browse the Internet for fun,
+312,IC08Q07,Out-of-school 8 - Read news,
+313,IC08Q08,Out-of-school 8 - Obtain practical information from the Internet,
+314,IC08Q09,Out-of-school 8 - Download music,
+315,IC08Q11,Out-of-school 8 - Upload content,
+316,IC09Q01,Out-of-school 9 - Internet for school,
+317,IC09Q02,Out-of-school 9 - Email students,
+318,IC09Q03,Out-of-school 9 - Email teachers,
+319,IC09Q04,Out-of-school 9 - Download from School,
+320,IC09Q05,Out-of-school 9 - Announcements,
+321,IC09Q06,Out-of-school 9 - Homework,
+322,IC09Q07,Out-of-school 9 - Share school material,
+323,IC10Q01,At School - Chat on line,
+324,IC10Q02,At School - Email,
+325,IC10Q03,At School - Browse for schoolwork,
+326,IC10Q04,At School - Download from website,
+327,IC10Q05,At School - Post on website,
+328,IC10Q06,At School - Simulations,
+329,IC10Q07,At School - Practice and drilling,
+330,IC10Q08,At School - Homework,
+331,IC10Q09,At School - Group work,
+332,IC11Q01,Maths lessons - Draw graph,
+333,IC11Q02,Maths lessons - Calculation with numbers,
+334,IC11Q03,Maths lessons - Geometric figures,
+335,IC11Q04,Maths lessons - Spreadsheet,
+336,IC11Q05,Maths lessons - Algebra,
+337,IC11Q06,Maths lessons - Histograms,
+338,IC11Q07,Maths lessons - Change in graphs,
+339,IC22Q01,Attitudes - Useful for schoolwork,
+340,IC22Q02,Attitudes - Homework more fun,
+341,IC22Q04,Attitudes - Source of information,
+342,IC22Q06,Attitudes - Troublesome,
+343,IC22Q07,Attitudes - Not suitable for schoolwork,
+344,IC22Q08,Attitudes - Too unreliable,
+345,EC01Q01,Miss 2 months of <ISCED 1>,
+346,EC02Q01,Miss 2 months of <ISCED 2>,
+347,EC03Q01,Future Orientation - Internship,
+348,EC03Q02,Future Orientation - Work-site visits,
+349,EC03Q03,Future Orientation - Job fair,
+350,EC03Q04,Future Orientation - Career advisor at school,
+351,EC03Q05,Future Orientation - Career advisor outside school,
+352,EC03Q06,Future Orientation - Questionnaire,
+353,EC03Q07,Future Orientation - Internet search,
+354,EC03Q08,Future Orientation - Tour<ISCED 3-5> institution,
+355,EC03Q09,Future Orientation - web search <ISCED 3-5> prog,
+356,EC03Q10,Future Orientation - <country specific item>,
+357,EC04Q01A,"Acquired skills - Find job info - Yes, at school",
+358,EC04Q01B,"Acquired skills - Find job info - Yes, out of school",
+359,EC04Q01C,"Acquired skills - Find job info - No, never",
+360,EC04Q02A,"Acquired skills - Search for job - Yes, at school",
+361,EC04Q02B,"Acquired skills - Search for job - Yes, out of school",
+362,EC04Q02C,"Acquired skills - Search for job - No, never",
+363,EC04Q03A,"Acquired skills - Write resume - Yes, at school",
+364,EC04Q03B,"Acquired skills - Write resume - Yes, out of school",
+365,EC04Q03C,"Acquired skills - Write resume - No, never",
+366,EC04Q04A,"Acquired skills - Job interview - Yes, at school",
+367,EC04Q04B,"Acquired skills - Job interview - Yes, out of school",
+368,EC04Q04C,"Acquired skills - Job interview - No, never",
+369,EC04Q05A,"Acquired skills - ISCED 3-5 programs - Yes, at school",
+370,EC04Q05B,"Acquired skills - ISCED 3-5 programs - Yes, out of school",
+371,EC04Q05C,"Acquired skills - ISCED 3-5 programs - No, never",
+372,EC04Q06A,"Acquired skills - Student financing - Yes, at school",
+373,EC04Q06B,"Acquired skills - Student financing - Yes, out of school",
+374,EC04Q06C,"Acquired skills - Student financing - No, never",
+375,EC05Q01,First language learned,
+376,EC06Q01,Age started learning <test language>,
+377,EC07Q01,Language spoken - Mother,
+378,EC07Q02,Language spoken - Father,
+379,EC07Q03,Language spoken - Siblings,
+380,EC07Q04,Language spoken - Best friend,
+381,EC07Q05,Language spoken - Schoolmates,
+382,EC08Q01,Activities language - Reading,
+383,EC08Q02,Activities language - Watching TV,
+384,EC08Q03,Activities language - Internet surfing,
+385,EC08Q04,Activities language - Writing emails,
+386,EC09Q03,Types of support <test language> - remedial lessons,
+387,EC10Q01,Amount of support <test language>,
+388,EC11Q02,Attend lessons <heritage language> - focused,
+389,EC11Q03,Attend lessons <heritage language> - school subjects,
+390,EC12Q01,Instruction in <heritage language>,
+391,ST22Q01,Acculturation - Mother Immigrant (Filter),
+392,ST23Q01,Acculturation - Enjoy <Host Culture> Friends,
+393,ST23Q02,Acculturation - Enjoy <Heritage Culture> Friends,
+394,ST23Q03,Acculturation - Enjoy <Host Culture> Celebrations,
+395,ST23Q04,Acculturation - Enjoy <Heritage Culture> Celebrations,
+396,ST23Q05,Acculturation - Spend Time with <Host Culture> Friends,
+397,ST23Q06,Acculturation - Spend Time with <Heritage Culture> Friends,
+398,ST23Q07,Acculturation - Participate in <Host Culture> Celebrations,
+399,ST23Q08,Acculturation - Participate in <Heritage Culture> Celebrations,
+400,ST24Q01,Acculturation - Perceived Host-Heritage Cultural Differences - Values,
+401,ST24Q02,Acculturation - Perceived Host-Heritage Cultural Differences - Mother Treatment,
+402,ST24Q03,Acculturation - Perceived Host-Heritage Cultural Differences - Teacher Treatment,
+403,CLCUSE1,Calculator Use,
+404,CLCUSE301,Effort-real 1,
+405,CLCUSE302,Effort-real 2,
+406,DEFFORT,Difference in Effort,
+407,QUESTID,Student Questionnaire Form,
+408,BOOKID,Booklet ID,
+409,EASY,Standard or simplified set of booklets,
+410,AGE,Age of student,
+411,GRADE,Grade compared to modal grade in country,
+412,PROGN,Unique national study programme code,
+413,ANXMAT,Mathematics Anxiety,
+414,ATSCHL,Attitude towards School: Learning Outcomes,
+415,ATTLNACT,Attitude towards School: Learning Activities,
+416,BELONG,Sense of Belonging to School,
+417,BFMJ2,Father SQ ISEI,
+418,BMMJ1,Mother SQ ISEI,
+419,CLSMAN,Mathematics Teacher's Classroom Management,
+420,COBN_F,Country of Birth National Categories- Father,
+421,COBN_M,Country of Birth National Categories- Mother,
+422,COBN_S,Country of Birth National Categories- Self,
+423,COGACT,Cognitive Activation in Mathematics Lessons,
+424,CULTDIST,Cultural Distance between Host and Heritage Culture,
+425,CULTPOS,Cultural Possessions,
+426,DISCLIMA,Disciplinary Climate,
+427,ENTUSE,ICT Entertainment Use,
+428,ESCS,"Index of economic, social and cultural status",
+429,EXAPPLM,Experience with Applied Mathematics Tasks at School,
+430,EXPUREM,Experience with Pure Mathematics Tasks at School,
+431,FAILMAT,Attributions to Failure in Mathematics,
+432,FAMCON,Familiarity with Mathematical Concepts,
+433,FAMCONC,Familiarity with Mathematical Concepts (Signal Detection  Adjusted),
+434,FAMSTRUC,Family Structure,
+435,FISCED,Educational level of father (ISCED),
+436,HEDRES,Home educational resources,
+437,HERITCUL,Acculturation: Heritage Culture Oriented  Strategies,
+438,HISCED,Highest educational level of parents,
+439,HISEI,Highest parental occupational status,
+440,HOMEPOS,Home Possessions,
+441,HOMSCH,ICT Use at Home for School-related Tasks,
+442,HOSTCUL,Acculturation: Host Culture Oriented Strategies,
+443,ICTATTNEG,Attitudes Towards Computers: Limitations of the Computer as a Tool for School Learning,
+444,ICTATTPOS,Attitudes Towards Computers: Computer as a Tool for School Learning,
+445,ICTHOME,ICT Availability at Home,
+446,ICTRES,ICT resources,
+447,ICTSCH,ICT Availability at School,
+448,IMMIG,Immigration status,
+449,INFOCAR,Information about Careers,
+450,INFOJOB1,Information about the Labour Market provided by the School,
+451,INFOJOB2,Information about the Labour Market provided outside of School,
+452,INSTMOT,Instrumental Motivation for Mathematics,
+453,INTMAT,Mathematics Interest,
+454,ISCEDD,ISCED designation,
+455,ISCEDL,ISCED level,
+456,ISCEDO,ISCED orientation,
+457,LANGCOMM,Preference for Heritage Language in Conversations with Family and Friends,
+458,LANGN,Language at home (3-digit code),
+459,LANGRPPD,Preference for Heritage Language in Language Reception and Production,
+460,LMINS,Learning time (minutes per week)  - <test language>,
+461,MATBEH,Mathematics Behaviour,
+462,MATHEFF,Mathematics Self-Efficacy,
+463,MATINTFC,Mathematics Intentions,
+464,MATWKETH,Mathematics Work Ethic,
+465,MISCED,Educational level of mother (ISCED),
+466,MMINS,Learning time (minutes per week)- <Mathematics>,
+467,MTSUP,Mathematics Teacher's Support,
+468,OCOD1,ISCO-08 Occupation code - Mother,
+469,OCOD2,ISCO-08 Occupation code - Father,
+470,OPENPS,Openness for Problem Solving,
+471,OUTHOURS,Out-of-School Study Time,
+472,PARED,Highest parental education in years,
+473,PERSEV,Perseverance,
+474,REPEAT,Grade Repetition,
+475,SCMAT,Mathematics Self-Concept,
+476,SMINS,Learning time (minutes per week) - <Science>,
+477,STUDREL,Teacher Student Relations,
+478,SUBNORM,Subjective Norms in Mathematics,
+479,TCHBEHFA,Teacher Behaviour: Formative Assessment,
+480,TCHBEHSO,Teacher Behaviour: Student Orientation,
+481,TCHBEHTD,Teacher Behaviour: Teacher-directed Instruction,
+482,TEACHSUP,Teacher Support,
+483,TESTLANG,Language of the test,
+484,TIMEINT,Time of computer use (mins),
+485,USEMATH,Use of ICT in Mathematic Lessons,
+486,USESCH,Use of ICT at School,
+487,WEALTH,Wealth,
+488,ANCATSCHL,Attitude towards School: Learning Outcomes (Anchored),
+489,ANCATTLNACT,Attitude towards School: Learning Activities (Anchored),
+490,ANCBELONG,Sense of Belonging to School (Anchored),
+491,ANCCLSMAN,Mathematics Teacher's Classroom Management (Anchored),
+492,ANCCOGACT,Cognitive Activation in Mathematics Lessons (Anchored),
+493,ANCINSTMOT,Instrumental Motivation for Mathematics (Anchored),
+494,ANCINTMAT,Mathematics Interest (Anchored),
+495,ANCMATWKETH,Mathematics Work Ethic (Anchored),
+496,ANCMTSUP,Mathematics Teacher's Support (Anchored),
+497,ANCSCMAT,Mathematics Self-Concept (Anchored),
+498,ANCSTUDREL,Teacher Student Relations (Anchored),
+499,ANCSUBNORM,Subjective Norms in Mathematics (Anchored),
+500,PV1MATH,Plausible value 1 in mathematics,1
+501,PV2MATH,Plausible value 2 in mathematics,1
+502,PV3MATH,Plausible value 3 in mathematics,1
+503,PV4MATH,Plausible value 4 in mathematics,1
+504,PV5MATH,Plausible value 5 in mathematics,1
+505,PV1MACC,Plausible value 1 in content subscale of math - Change and Relationships,
+506,PV2MACC,Plausible value 2 in content subscale of math - Change and Relationships,
+507,PV3MACC,Plausible value 3 in content subscale of math - Change and Relationships,
+508,PV4MACC,Plausible value 4 in content subscale of math - Change and Relationships,
+509,PV5MACC,Plausible value 5 in content subscale of math - Change and Relationships,
+510,PV1MACQ,Plausible value 1 in content subscale of math - Quantity,
+511,PV2MACQ,Plausible value 2 in content subscale of math - Quantity,
+512,PV3MACQ,Plausible value 3 in content subscale of math - Quantity,
+513,PV4MACQ,Plausible value 4 in content subscale of math - Quantity,
+514,PV5MACQ,Plausible value 5 in content subscale of math - Quantity,
+515,PV1MACS,Plausible value 1 in content subscale of math - Space and Shape,
+516,PV2MACS,Plausible value 2 in content subscale of math - Space and Shape,
+517,PV3MACS,Plausible value 3 in content subscale of math - Space and Shape,
+518,PV4MACS,Plausible value 4 in content subscale of math - Space and Shape,
+519,PV5MACS,Plausible value 5 in content subscale of math - Space and Shape,
+520,PV1MACU,Plausible value 1 in content subscale of math - Uncertainty and Data,
+521,PV2MACU,Plausible value 2 in content subscale of math - Uncertainty and Data,
+522,PV3MACU,Plausible value 3 in content subscale of math - Uncertainty and Data,
+523,PV4MACU,Plausible value 4 in content subscale of math - Uncertainty and Data,
+524,PV5MACU,Plausible value 5 in content subscale of math - Uncertainty and Data,
+525,PV1MAPE,Plausible value 1 in process subscale of math - Employ,
+526,PV2MAPE,Plausible value 2 in process subscale of math - Employ,
+527,PV3MAPE,Plausible value 3 in process subscale of math - Employ,
+528,PV4MAPE,Plausible value 4 in process subscale of math - Employ,
+529,PV5MAPE,Plausible value 5 in process subscale of math - Employ,
+530,PV1MAPF,Plausible value 1 in process subscale of math - Formulate,
+531,PV2MAPF,Plausible value 2 in process subscale of math - Formulate,
+532,PV3MAPF,Plausible value 3 in process subscale of math - Formulate,
+533,PV4MAPF,Plausible value 4 in process subscale of math - Formulate,
+534,PV5MAPF,Plausible value 5 in process subscale of math - Formulate,
+535,PV1MAPI,Plausible value 1 in process subscale of math - Interpret,
+536,PV2MAPI,Plausible value 2 in process subscale of math - Interpret,
+537,PV3MAPI,Plausible value 3 in process subscale of math - Interpret,
+538,PV4MAPI,Plausible value 4 in process subscale of math - Interpret,
+539,PV5MAPI,Plausible value 5 in process subscale of math - Interpret,
+540,PV1READ,Plausible value 1 in reading,
+541,PV2READ,Plausible value 2 in reading,
+542,PV3READ,Plausible value 3 in reading,
+543,PV4READ,Plausible value 4 in reading,
+544,PV5READ,Plausible value 5 in reading,
+545,PV1SCIE,Plausible value 1 in science,
+546,PV2SCIE,Plausible value 2 in science,
+547,PV3SCIE,Plausible value 3 in science,
+548,PV4SCIE,Plausible value 4 in science,
+549,PV5SCIE,Plausible value 5 in science,
+550,W_FSTUWT,FINAL STUDENT WEIGHT,1
+551,W_FSTR1,FINAL STUDENT REPLICATE BRR-FAY WEIGHT1,
+552,W_FSTR2,FINAL STUDENT REPLICATE BRR-FAY WEIGHT2,
+553,W_FSTR3,FINAL STUDENT REPLICATE BRR-FAY WEIGHT3,
+554,W_FSTR4,FINAL STUDENT REPLICATE BRR-FAY WEIGHT4,
+555,W_FSTR5,FINAL STUDENT REPLICATE BRR-FAY WEIGHT5,
+556,W_FSTR6,FINAL STUDENT REPLICATE BRR-FAY WEIGHT6,
+557,W_FSTR7,FINAL STUDENT REPLICATE BRR-FAY WEIGHT7,
+558,W_FSTR8,FINAL STUDENT REPLICATE BRR-FAY WEIGHT8,
+559,W_FSTR9,FINAL STUDENT REPLICATE BRR-FAY WEIGHT9,
+560,W_FSTR10,FINAL STUDENT REPLICATE BRR-FAY WEIGHT10,
+561,W_FSTR11,FINAL STUDENT REPLICATE BRR-FAY WEIGHT11,
+562,W_FSTR12,FINAL STUDENT REPLICATE BRR-FAY WEIGHT12,
+563,W_FSTR13,FINAL STUDENT REPLICATE BRR-FAY WEIGHT13,
+564,W_FSTR14,FINAL STUDENT REPLICATE BRR-FAY WEIGHT14,
+565,W_FSTR15,FINAL STUDENT REPLICATE BRR-FAY WEIGHT15,
+566,W_FSTR16,FINAL STUDENT REPLICATE BRR-FAY WEIGHT16,
+567,W_FSTR17,FINAL STUDENT REPLICATE BRR-FAY WEIGHT17,
+568,W_FSTR18,FINAL STUDENT REPLICATE BRR-FAY WEIGHT18,
+569,W_FSTR19,FINAL STUDENT REPLICATE BRR-FAY WEIGHT19,
+570,W_FSTR20,FINAL STUDENT REPLICATE BRR-FAY WEIGHT20,
+571,W_FSTR21,FINAL STUDENT REPLICATE BRR-FAY WEIGHT21,
+572,W_FSTR22,FINAL STUDENT REPLICATE BRR-FAY WEIGHT22,
+573,W_FSTR23,FINAL STUDENT REPLICATE BRR-FAY WEIGHT23,
+574,W_FSTR24,FINAL STUDENT REPLICATE BRR-FAY WEIGHT24,
+575,W_FSTR25,FINAL STUDENT REPLICATE BRR-FAY WEIGHT25,
+576,W_FSTR26,FINAL STUDENT REPLICATE BRR-FAY WEIGHT26,
+577,W_FSTR27,FINAL STUDENT REPLICATE BRR-FAY WEIGHT27,
+578,W_FSTR28,FINAL STUDENT REPLICATE BRR-FAY WEIGHT28,
+579,W_FSTR29,FINAL STUDENT REPLICATE BRR-FAY WEIGHT29,
+580,W_FSTR30,FINAL STUDENT REPLICATE BRR-FAY WEIGHT30,
+581,W_FSTR31,FINAL STUDENT REPLICATE BRR-FAY WEIGHT31,
+582,W_FSTR32,FINAL STUDENT REPLICATE BRR-FAY WEIGHT32,
+583,W_FSTR33,FINAL STUDENT REPLICATE BRR-FAY WEIGHT33,
+584,W_FSTR34,FINAL STUDENT REPLICATE BRR-FAY WEIGHT34,
+585,W_FSTR35,FINAL STUDENT REPLICATE BRR-FAY WEIGHT35,
+586,W_FSTR36,FINAL STUDENT REPLICATE BRR-FAY WEIGHT36,
+587,W_FSTR37,FINAL STUDENT REPLICATE BRR-FAY WEIGHT37,
+588,W_FSTR38,FINAL STUDENT REPLICATE BRR-FAY WEIGHT38,
+589,W_FSTR39,FINAL STUDENT REPLICATE BRR-FAY WEIGHT39,
+590,W_FSTR40,FINAL STUDENT REPLICATE BRR-FAY WEIGHT40,
+591,W_FSTR41,FINAL STUDENT REPLICATE BRR-FAY WEIGHT41,
+592,W_FSTR42,FINAL STUDENT REPLICATE BRR-FAY WEIGHT42,
+593,W_FSTR43,FINAL STUDENT REPLICATE BRR-FAY WEIGHT43,
+594,W_FSTR44,FINAL STUDENT REPLICATE BRR-FAY WEIGHT44,
+595,W_FSTR45,FINAL STUDENT REPLICATE BRR-FAY WEIGHT45,
+596,W_FSTR46,FINAL STUDENT REPLICATE BRR-FAY WEIGHT46,
+597,W_FSTR47,FINAL STUDENT REPLICATE BRR-FAY WEIGHT47,
+598,W_FSTR48,FINAL STUDENT REPLICATE BRR-FAY WEIGHT48,
+599,W_FSTR49,FINAL STUDENT REPLICATE BRR-FAY WEIGHT49,
+600,W_FSTR50,FINAL STUDENT REPLICATE BRR-FAY WEIGHT50,
+601,W_FSTR51,FINAL STUDENT REPLICATE BRR-FAY WEIGHT51,
+602,W_FSTR52,FINAL STUDENT REPLICATE BRR-FAY WEIGHT52,
+603,W_FSTR53,FINAL STUDENT REPLICATE BRR-FAY WEIGHT53,
+604,W_FSTR54,FINAL STUDENT REPLICATE BRR-FAY WEIGHT54,
+605,W_FSTR55,FINAL STUDENT REPLICATE BRR-FAY WEIGHT55,
+606,W_FSTR56,FINAL STUDENT REPLICATE BRR-FAY WEIGHT56,
+607,W_FSTR57,FINAL STUDENT REPLICATE BRR-FAY WEIGHT57,
+608,W_FSTR58,FINAL STUDENT REPLICATE BRR-FAY WEIGHT58,
+609,W_FSTR59,FINAL STUDENT REPLICATE BRR-FAY WEIGHT59,
+610,W_FSTR60,FINAL STUDENT REPLICATE BRR-FAY WEIGHT60,
+611,W_FSTR61,FINAL STUDENT REPLICATE BRR-FAY WEIGHT61,
+612,W_FSTR62,FINAL STUDENT REPLICATE BRR-FAY WEIGHT62,
+613,W_FSTR63,FINAL STUDENT REPLICATE BRR-FAY WEIGHT63,
+614,W_FSTR64,FINAL STUDENT REPLICATE BRR-FAY WEIGHT64,
+615,W_FSTR65,FINAL STUDENT REPLICATE BRR-FAY WEIGHT65,
+616,W_FSTR66,FINAL STUDENT REPLICATE BRR-FAY WEIGHT66,
+617,W_FSTR67,FINAL STUDENT REPLICATE BRR-FAY WEIGHT67,
+618,W_FSTR68,FINAL STUDENT REPLICATE BRR-FAY WEIGHT68,
+619,W_FSTR69,FINAL STUDENT REPLICATE BRR-FAY WEIGHT69,
+620,W_FSTR70,FINAL STUDENT REPLICATE BRR-FAY WEIGHT70,
+621,W_FSTR71,FINAL STUDENT REPLICATE BRR-FAY WEIGHT71,
+622,W_FSTR72,FINAL STUDENT REPLICATE BRR-FAY WEIGHT72,
+623,W_FSTR73,FINAL STUDENT REPLICATE BRR-FAY WEIGHT73,
+624,W_FSTR74,FINAL STUDENT REPLICATE BRR-FAY WEIGHT74,
+625,W_FSTR75,FINAL STUDENT REPLICATE BRR-FAY WEIGHT75,
+626,W_FSTR76,FINAL STUDENT REPLICATE BRR-FAY WEIGHT76,
+627,W_FSTR77,FINAL STUDENT REPLICATE BRR-FAY WEIGHT77,
+628,W_FSTR78,FINAL STUDENT REPLICATE BRR-FAY WEIGHT78,
+629,W_FSTR79,FINAL STUDENT REPLICATE BRR-FAY WEIGHT79,
+630,W_FSTR80,FINAL STUDENT REPLICATE BRR-FAY WEIGHT80,
+631,WVARSTRR,RANDOMIZED FINAL VARIANCE STRATUM (1-80),
+632,VAR_UNIT,RANDOMLY ASSIGNED VARIANCE UNIT,
+633,SENWGT_STU,Senate weight - sum of weight within the country is 1000,
+634,VER_STU,Date of the database creation,
