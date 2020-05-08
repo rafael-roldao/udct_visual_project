@@ -1,4 +1,4 @@
-Index,Code,Description,Exclude
+Index,Code,Description,Include
 0,CNT,Country code 3-character,
 1,SUBNATIO,Adjudicated sub-region code 7-digit code (3-digit country code + region ID + stratum ID),
 2,STRATUM,Stratum ID 7-character (cnt + region ID + original stratum ID),
@@ -539,16 +539,16 @@ Index,Code,Description,Exclude
 537,PV3MAPI,Plausible value 3 in process subscale of math - Interpret,
 538,PV4MAPI,Plausible value 4 in process subscale of math - Interpret,
 539,PV5MAPI,Plausible value 5 in process subscale of math - Interpret,
-540,PV1READ,Plausible value 1 in reading,
-541,PV2READ,Plausible value 2 in reading,
-542,PV3READ,Plausible value 3 in reading,
-543,PV4READ,Plausible value 4 in reading,
-544,PV5READ,Plausible value 5 in reading,
-545,PV1SCIE,Plausible value 1 in science,
-546,PV2SCIE,Plausible value 2 in science,
-547,PV3SCIE,Plausible value 3 in science,
-548,PV4SCIE,Plausible value 4 in science,
-549,PV5SCIE,Plausible value 5 in science,
+540,PV1READ,Plausible value 1 in reading,1
+541,PV2READ,Plausible value 2 in reading,1
+542,PV3READ,Plausible value 3 in reading,1
+543,PV4READ,Plausible value 4 in reading,1
+544,PV5READ,Plausible value 5 in reading,1
+545,PV1SCIE,Plausible value 1 in science,1
+546,PV2SCIE,Plausible value 2 in science,1
+547,PV3SCIE,Plausible value 3 in science,1
+548,PV4SCIE,Plausible value 4 in science,1
+549,PV5SCIE,Plausible value 5 in science,1
 550,W_FSTUWT,FINAL STUDENT WEIGHT,1
 551,W_FSTR1,FINAL STUDENT REPLICATE BRR-FAY WEIGHT1,
 552,W_FSTR2,FINAL STUDENT REPLICATE BRR-FAY WEIGHT2,
