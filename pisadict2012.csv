@@ -1,9 +1,9 @@
 Index,Code,Description,Include
-0,CNT,Country code 3-character,
-1,SUBNATIO,Adjudicated sub-region code 7-digit code (3-digit country code + region ID + stratum ID),
-2,STRATUM,Stratum ID 7-character (cnt + region ID + original stratum ID),
-3,OECD,OECD country,
-4,NC,National Centre 6-digit Code,
+0,CNT,Country code 3-character,1
+1,SUBNATIO,Adjudicated sub-region code 7-digit code (3-digit country code + region ID + stratum ID),1
+2,STRATUM,Stratum ID 7-character (cnt + region ID + original stratum ID),1
+3,OECD,OECD country,1
+4,NC,National Centre 6-digit Code,1
 5,SCHOOLID,School ID 7-digit (region ID + stratum ID + 3-digit school ID),
 6,STIDSTD,Student ID,
 7,ST01Q01,International Grade,
@@ -136,7 +136,7 @@ Index,Code,Description,Include
 134,ST53Q03,Learning Strategies - Other Subjects vs. Learning Goals vs. Rehearse Problems,
 135,ST53Q04,Learning Strategies - Repeat Examples vs. Everyday Applications vs. More Information,
 136,ST55Q01,Out of school lessons - <test lang>,
-137,ST55Q02,Out of school lessons - <maths>,
+137,ST55Q02,Out of school lessons - <maths>,1
 138,ST55Q03,Out of school lessons - <science>,
 139,ST55Q04,Out of school lessons - other,
 140,ST57Q01,Out-of-School Study Time - Homework,
@@ -186,11 +186,11 @@ Index,Code,Description,Include
 184,ST75Q02,OTL - Pure Math Reasoning in Tests,
 185,ST76Q01,OTL - Applied Math Reasoning in Math Lesson,
 186,ST76Q02,OTL - Applied Math Reasoning in Tests,
-187,ST77Q01,Math Teaching - Teacher shows interest,
-188,ST77Q02,Math Teaching - Extra help,
-189,ST77Q04,Math Teaching - Teacher helps,
-190,ST77Q05,Math Teaching - Teacher continues,
-191,ST77Q06,Math Teaching - Express opinions,
+187,ST77Q01,Math Teaching - Teacher shows interest,1
+188,ST77Q02,Math Teaching - Extra help,1
+189,ST77Q04,Math Teaching - Teacher helps,1
+190,ST77Q05,Math Teaching - Teacher continues,1
+191,ST77Q06,Math Teaching - Express opinions,1
 192,ST79Q01,Teacher-Directed Instruction - Sets Clear Goals,
 193,ST79Q02,Teacher-Directed Instruction - Encourages Thinking and Reasoning,
 194,ST79Q03,Student Orientation - Differentiates Between Students When Giving Tasks,
@@ -311,7 +311,7 @@ Index,Code,Description,Include
 309,IC08Q04,Out-of-school 8 - Chat on line,
 310,IC08Q05,Out-of-school 8 - Social networks,
 311,IC08Q06,Out-of-school 8 - Browse the Internet for fun,
-312,IC08Q07,Out-of-school 8 - Read news,
+312,IC08Q07,Out-of-school 8 - Read news,1
 313,IC08Q08,Out-of-school 8 - Obtain practical information from the Internet,
 314,IC08Q09,Out-of-school 8 - Download music,
 315,IC08Q11,Out-of-school 8 - Upload content,
@@ -320,7 +320,7 @@ Index,Code,Description,Include
 318,IC09Q03,Out-of-school 9 - Email teachers,
 319,IC09Q04,Out-of-school 9 - Download from School,
 320,IC09Q05,Out-of-school 9 - Announcements,
-321,IC09Q06,Out-of-school 9 - Homework,
+321,IC09Q06,Out-of-school 9 - Homework,1
 322,IC09Q07,Out-of-school 9 - Share school material,
 323,IC10Q01,At School - Chat on line,
 324,IC10Q02,At School - Email,
@@ -331,13 +331,13 @@ Index,Code,Description,Include
 329,IC10Q07,At School - Practice and drilling,
 330,IC10Q08,At School - Homework,
 331,IC10Q09,At School - Group work,
-332,IC11Q01,Maths lessons - Draw graph,
-333,IC11Q02,Maths lessons - Calculation with numbers,
-334,IC11Q03,Maths lessons - Geometric figures,
-335,IC11Q04,Maths lessons - Spreadsheet,
-336,IC11Q05,Maths lessons - Algebra,
-337,IC11Q06,Maths lessons - Histograms,
-338,IC11Q07,Maths lessons - Change in graphs,
+332,IC11Q01,Maths lessons - Draw graph,1
+333,IC11Q02,Maths lessons - Calculation with numbers,1
+334,IC11Q03,Maths lessons - Geometric figures,1
+335,IC11Q04,Maths lessons - Spreadsheet,1
+336,IC11Q05,Maths lessons - Algebra,1
+337,IC11Q06,Maths lessons - Histograms,1
+338,IC11Q07,Maths lessons - Change in graphs,1
 339,IC22Q01,Attitudes - Useful for schoolwork,
 340,IC22Q02,Attitudes - Homework more fun,
 341,IC22Q04,Attitudes - Source of information,
